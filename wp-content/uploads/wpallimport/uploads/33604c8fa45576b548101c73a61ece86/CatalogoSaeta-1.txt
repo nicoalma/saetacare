@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<categoria><![CDATA[Termosellado]]></categoria>
+		<nombre><![CDATA[Tapaboca termosellado]]></nombre>
+		<etiqueta><![CDATA[Tapabocas]]></etiqueta>
+		<descripcion><![CDATA[(Dos capas de tela no tejida SS Spundbond y 1 capa de filtro Meltblown PFE 99%)Es importante resaltar el filtro y su grado de filtracin del 99%. Hecho en Colombia. Maquina automatica en todos los procesos lo que disminuye el contacto humano con los productos.
+]]></descripcion>
+		<precio><![CDATA[30000]]></precio>
+	</node>
+	<node>
+		<categoria><![CDATA[Tapabocas Tela]]></categoria>
+		<nombre><![CDATA[Tapabocas reutilizable Unicolor]]></nombre>
+		<etiqueta><![CDATA[Unicolor, tapabocas]]></etiqueta>
+		<descripcion><![CDATA[Tela externa antifluidos, resistente 50 lavadas
+Tela interna de secado rpido y Antimicrobial
+Opcin de bolsillo para incluir filtros]]></descripcion>
+		<precio><![CDATA[20000]]></precio>
+	</node>
+	<node>
+		<categoria><![CDATA[Tapabocas Tela]]></categoria>
+		<nombre><![CDATA[Tapabocas reutilizable Estampado]]></nombre>
+		<etiqueta><![CDATA[Estampado, tapabocas]]></etiqueta>
+		<descripcion><![CDATA[Tela externa antifluidos, resistente 50 lavadas
+Tela interna de secado rpido y Antimicrobial
+Estampacin digital (menos consumo de agua)
+Opcin de bolsillo para incluir filtros]]></descripcion>
+		<precio><![CDATA[20000]]></precio>
+	</node>
+	<node>
+		<categoria><![CDATA[Tapabocas Tela]]></categoria>
+		<nombre><![CDATA[Tapabocas reutilizable Estampado Personalizado]]></nombre>
+		<etiqueta><![CDATA[Estampado Personalizado, tapabocas]]></etiqueta>
+		<descripcion><![CDATA[Tela externa antifluidos, resistente 50 lavadas
+Tela interna de secado rpido y Antimicrobial
+Estampacin digital (menos consumo de agua)
+Opcin de bolsillo para incluir filtros]]></descripcion>
+		<precio><![CDATA[20000]]></precio>
+	</node>
+	<node>
+		<categoria><![CDATA[Tapabocas Reutilizable]]></categoria>
+		<nombre><![CDATA[Tapabocas reutlizable con tapas Unicolor]]></nombre>
+		<etiqueta><![CDATA[Unicolor, tapabocas]]></etiqueta>
+		<descripcion><![CDATA[Tela externa antifluidos, resistente 50 lavadas
+Tela interna de secado rpido y Antimicrobial
+Opcin de bolsillo para incluir filtros]]></descripcion>
+		<precio><![CDATA[40000]]></precio>
+	</node>
+	<node>
+		<categoria><![CDATA[Tapabocas Reutilizable]]></categoria>
+		<nombre><![CDATA[Tapabocas reutlizable con tapas Estampado]]></nombre>
+		<etiqueta><![CDATA[Estampado, tapabocas]]></etiqueta>
+		<descripcion><![CDATA[Tela externa antifluidos, resistente 50 lavadas
+Tela interna de secado rpido y Antimicrobial
+Estampacin digital (menos consumo de agua)
+Opcin de bolsillo para incluir filtros]]></descripcion>
+		<precio><![CDATA[40000]]></precio>
+	</node>
+	<node>
+		<categoria><![CDATA[Tapabocas Reutilizable]]></categoria>
+		<nombre><![CDATA[Tapabocas reutlizable con tapas Estampado Personalizado]]></nombre>
+		<etiqueta><![CDATA[Estampado Personalizado, tapabocas]]></etiqueta>
+		<descripcion><![CDATA[Tela externa antifluidos, resistente 50 lavadas
+Tela interna de secado rpido y Antimicrobial
+Estampacin digital (menos consumo de agua)
+Opcin de bolsillo para incluir filtros]]></descripcion>
+		<precio><![CDATA[40000]]></precio>
+	</node>
+	<node>
+		<categoria><![CDATA[Overol]]></categoria>
+		<nombre><![CDATA[Overoles de Proteccin]]></nombre>
+		<etiqueta><![CDATA[Overol]]></etiqueta>
+		<descripcion><![CDATA[Tela externa antifluidos, resistente 50 lavadas
+Tela con tecnologia antimicrobial
+Opcin de personalizacin]]></descripcion>
+		<precio><![CDATA[50000]]></precio>
+	</node>
+	<node>
+		<categoria><![CDATA[Filtros]]></categoria>
+		<nombre><![CDATA[Filtros de Carbon Activado]]></nombre>
+		<etiqueta><![CDATA[Tapabocas, filtros]]></etiqueta>
+		<descripcion><![CDATA[5 Capas (2 capas de filtro Meltblown, 1 capa de filtro carbon activado, 2 capas de Tela no tejida Spundbond SS)
+Filtra particulas de contaminacin PM 2.5
+Filtro desechable. Recomendable cambiarlo a las 8 horas continuas de uso o mximo 1 semana)]]></descripcion>
+		<precio><![CDATA[10000]]></precio>
+	</node>
+</data>

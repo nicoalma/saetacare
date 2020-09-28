@@ -1,0 +1,209 @@
+2020-09-07T21:59:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/class-wp-image-editor-gd.php en la línea 191
+
+2020-09-07T22:43:19+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T22:43:24+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T22:43:33+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T22:44:11+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T22:46:10+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T22:46:44+00:00 CRITICAL Uncaught Error: Call to undefined method Porto_Importer_API::is_localhost() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/themes/porto/inc/admin/admin.php:176
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/themes/porto/inc/admin/admin.php(262): Porto_Admin->curl_purchase_code('12e2313f-b9e7-*...', 'localhost', 'add')
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/class-wp-hook.php(289): Porto_Admin->upgrader_pre_download(false, 'https://www.por...', Object(Theme_Upgrader))
+#2 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/plugin.php(206): WP_Hook->apply_filters(false, Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-admin/includes/class-wp-upgrader.php(268): apply_filters('upgrader_pre_do...', false, 'https://www.por...', Object(Theme_Upgrader), Array)
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-admin/includes/class-wp-upgrader.php(743): WP_Upgrader->download_package('https://www.por...', true, Array)
+#5 /Applications/MAMP/htdo en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/themes/porto/inc/admin/admin.php en la línea 176
+
+2020-09-07T23:25:03+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:25:21+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:25:38+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:31:31+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:33:59+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:38:09+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:40:02+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:40:35+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:41:19+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:42:42+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:43:06+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:43:53+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:44:50+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:45:19+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:45:34+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:52:58+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+
+2020-09-07T23:57:22+00:00 CRITICAL Uncaught Error: Call to undefined function vc_shortcode_custom_css_class() in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php:42
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/shortcodes/porto_interactive_banner.php(19): include()
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): porto_shortcode_interactive_banner(Array, '\n<h2 class="por...', 'porto_interacti...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(porto_...', 'do_shortcode_ta...', '[porto_interact...')
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_carousel.php(164): do_shortcode('[porto_interact...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functiona en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/porto-functionality/shortcodes/templates/porto_interactive_banner.php en la línea 42
+

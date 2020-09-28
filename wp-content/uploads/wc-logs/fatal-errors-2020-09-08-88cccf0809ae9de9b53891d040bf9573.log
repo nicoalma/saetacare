@@ -1,0 +1,27 @@
+2020-09-08T00:20:27+00:00 CRITICAL Uncaught Error: Class 'WPBMap' not found in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/themes/porto/inc/functions/woocommerce.php:1815
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/class-wp-hook.php(287): porto_woocommerce_shortcodes_products('')
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/saetacare/wordpress/wp-admin/admin-ajax.php(176): do_action('wp_ajax_porto_w...')
+#4 {main}
+  thrown en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/themes/porto/inc/functions/woocommerce.php en la línea 1815
+
+2020-09-08T02:10:34+00:00 CRITICAL Uncaught Error: Function name must be a string in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/js_composer/include/autoload/vc-shortcode-autoloader.php:64
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-vc-shortcodes-manager.php(107): VcShortcodeAutoloader::includeClass('wpbakeryshortco...')
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(1316): Vc_Shortcodes_Manager->getElementClass('vc_row')
+#2 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): vc_do_shortcode(Array, '[vc_column][por...', 'vc_row')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(contac...', 'do_shortcode_ta...', '<p>[vc_row no_p...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_r en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/js_composer/include/autoload/vc-shortcode-autoloader.php en la línea 64
+
+2020-09-08T02:10:47+00:00 CRITICAL Uncaught Error: Function name must be a string in /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/js_composer/include/autoload/vc-shortcode-autoloader.php:64
+Stack trace:
+#0 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/js_composer/include/classes/shortcodes/core/class-vc-shortcodes-manager.php(107): VcShortcodeAutoloader::includeClass('wpbakeryshortco...')
+#1 /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/js_composer/include/helpers/helpers.php(1316): Vc_Shortcodes_Manager->getElementClass('vc_row')
+#2 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(343): vc_do_shortcode(Array, '[vc_column][por...', 'vc_row')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(contac...', 'do_shortcode_ta...', '<p>[vc_row no_p...')
+#5 /Applications/MAMP/htdocs/saetacare/wordpress/wp-includes/class-wp-hook.php(287): do_shortcode('<p>[vc_r en /Applications/MAMP/htdocs/saetacare/wordpress/wp-content/plugins/js_composer/include/autoload/vc-shortcode-autoloader.php en la línea 64
+
